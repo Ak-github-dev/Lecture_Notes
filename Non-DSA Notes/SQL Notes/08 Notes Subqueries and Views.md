@@ -563,7 +563,7 @@ SHOW FULL TABLES WHERE table_type = 'VIEW';
 **Dropping a view** 
 
 ```sql
-DROP VIEW actor_file_name;
+DROP VIEW actor_film_name;
 ```
 
 **Updating a view**

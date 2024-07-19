@@ -573,7 +573,7 @@ ALTER view actor_film_name AS
 
  SELECT
     concat(a.first_name, a.last_name) AS actor_name,
-    f.title AS file_name
+    f.title AS film_name
  FROM actor a
    JOIN film_actor fa
      ON fa.actor_id = a.actor_id

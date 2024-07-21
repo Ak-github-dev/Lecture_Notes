@@ -33,7 +33,7 @@ For example - **Transfering Money in a Bank**
 
 ![](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/040/974/original/upload_845348751cdfa3f32d5bf8eef6b5d727.png?1690721321)
 
-Now, to transfer the money from A to B, what all changes are needed in the database of the back?
+Now, to transfer the money from A to B, what all changes are needed in the database of the bank?
 
 **[Activity:]**
 Where do you think the information regarding the balance etc., of a customer is stored in the bank? in which table?
